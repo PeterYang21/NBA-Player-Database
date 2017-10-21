@@ -6,6 +6,7 @@ ER Diagram:
 
 Sample Screenshots:
 -----------------
+![ER](sample-display/ER-Diagram.jpeg)
 ![Login Page](sample-display/login.png)
 ![PLayer Cards](sample-display/player-cards.png)
 ![Shopping Cart](sample-display/cart.png)
