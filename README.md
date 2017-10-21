@@ -1,7 +1,7 @@
 Project Team Member: Yiming Yang, Tiecheng Su, Yiming Pan, Yadong Wei
 
 ER Diagram:
-![ER](sample-display/ER-Diagram.jpeg)
+![ER](sample-display/ER-Diagram)
 
 Sample Screenshots:
 -----------------
